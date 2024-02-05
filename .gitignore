@@ -1,0 +1,57 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+
+# Virtual environment
+venv/
+__venv__/
+ENV/
+
+# IDE-specific
+.idea/
+
+# Logs
+*.log
+
+# Compiled Python files
+*.pyc
+
+# Environment variables file
+.env
+
+# Web application specific files
+/static/
+/uploads/
+
+# Editor/IDE project files
+.vscode/
+*.code-workspace
+.idea/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Compiled output
+*.pyc
+__pycache__/
+dist/
+build/
+*.egg-info/
+*.egg/
+*.dll
+*.exe
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+
+# .DS_Store files (Mac)
+.DS_Store
+
+# .env files (environment-specific configuration)
+.env.*
