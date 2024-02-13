@@ -22,8 +22,8 @@ Flask Finance Tracker is a web application built with Flask that allows users to
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/fnyamweya/flask-finance-tracker.git
-cd flask-finance-tracker
+git clone https://github.com/fnyamweya/finance-tracker.git
+cd finance-tracker
 ```
 
 2. Create a virtual environment (optional but recommended):
